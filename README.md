@@ -1,5 +1,7 @@
 # Brain-Tumor-Classification
 
+![GitHub Logo](https://github.com/costpetrides/Brain-Tumor-Classification/blob/main/readmePic.png)
+
 A brain tumor is an abnormal mass or growth of cells in the brain, which can disrupt normal brain function. These tumors can be categorized into primary brain tumors and metastatic brain tumors. Three specific types of primary brain tumors are,
 
 1. Pituitary Tumor:
@@ -10,6 +12,3 @@ A brain tumor is an abnormal mass or growth of cells in the brain, which can dis
 
 3. Glioma:
    - Gliomas are primary brain tumors that develop from glial cells, which are supportive cells in the brain that surround and nourish nerve cells. Gliomas can be either benign or malignant. The most aggressive type of glioma is glioblastoma multiforme. Gliomas are categorized based on the type of glial cell they originate from, such as astrocytomas, oligodendrogliomas, and ependymomas. Symptoms of gliomas can vary depending on the specific type and location of the tumor but may include headaches, seizures, cognitive changes, and neurological deficits.
-
-
-![GitHub Logo](https://github.com/costpetrides/Brain-Tumor-Classification/blob/main/readmePic.png)
