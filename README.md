@@ -46,7 +46,7 @@ Feel free run the entire code from scratch and adjust the hyperparameters so can
    - "Model 1" loads training and test data using flow_from_directory with specific settings.
    - "Model 2" also loads training and test data using flow_from_directory with similar settings, including a constant seed for reproducibility.
 
-5.Training:
+5. Training:
 
    - Both "Model 1" and "Model 2" are trained for 40 epochs with a specific number of steps per epoch and validation steps.
    - They use different training data generators (train_generator and test_generator), which have different data augmentation settings.
