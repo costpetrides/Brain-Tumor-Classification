@@ -40,3 +40,6 @@ A brain tumor is an abnormal mass or growth of cells in the brain, which can dis
 
    - Both "Model 1" and "Model 2" are trained for 40 epochs with a specific number of steps per epoch and validation steps.
    - They use different training data generators (train_generator and test_generator), which have different data augmentation settings.
+
+# Warning :)
+If you want to run the entire model from scratch, the first model takes approximately 6 'Friends' episodes to be trained, while the second model takes approximately 8 'Friends' episodes to be trained! 
