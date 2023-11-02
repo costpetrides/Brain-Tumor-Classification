@@ -14,6 +14,9 @@ A brain tumor is an abnormal mass or growth of cells in the brain, which can dis
   <img src="https://github.com/costpetrides/Brain-Tumor-Classification/raw/main/readmePic.png" style="max-width:70%;">
 </div>
 
+# Model_1 and Model_2
+You can find  model_1 and model_2: 
+
 # Differnces between Model_1 and Model_2
 
 1. Model Architecture:
