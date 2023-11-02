@@ -14,3 +14,29 @@ A brain tumor is an abnormal mass or growth of cells in the brain, which can dis
   <img src="https://github.com/costpetrides/Brain-Tumor-Classification/raw/main/readmePic.png" style="max-width:70%;">
 </div>
 
+# Differnces between Model_1 and Model_2
+
+1. Model Architecture:
+
+   - "Model 1" uses a specific architecture with multiple convolutional layers and max-pooling layers, along with fully connected layers.
+   - "Model 2" also uses convolutional layers, max-pooling layers, and fully connected layers, but with different layer configurations and filter sizes.
+
+2. Model Compilation:
+
+   - "Model 1" is compiled with an Adam optimizer with specific learning rates and beta values.
+   - "Model 2" is compiled with an Adam optimizer, but with different learning rates and beta values.
+
+3. Data Augmentation and Preprocessing:
+
+   - "Model 1" applies data augmentation to the training data, including rotation, brightness adjustment, shifting, shear, and flipping.
+   - "Model 2" applies a different set of data augmentation techniques to the training data, including rotation, brightness adjustment, shifting, shear, and flipping.
+
+4. Data Loading:
+
+   - "Model 1" loads training and test data using flow_from_directory with specific settings.
+   - "Model 2" also loads training and test data using flow_from_directory with similar settings, including a constant seed for reproducibility.
+
+5.Training:
+
+   - Both "Model 1" and "Model 2" are trained for 40 epochs with a specific number of steps per epoch and validation steps.
+   - They use different training data generators (train_generator and test_generator), which have different data augmentation settings.
