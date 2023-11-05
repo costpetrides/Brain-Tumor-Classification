@@ -51,4 +51,14 @@ Feel free to run the entire code from scratch and adjust the hyperparameters so 
    - Both "Model 1" and "Model 2" are trained for 40 epochs with a specific number of steps per epoch and validation steps.
    - They use different training data generators (train_generator and test_generator), which have different data augmentation settings.
 
+---
+# About Dataset
+
+Contains 7023 images of human brain MRI images which are classified into 4 classes: glioma - meningioma - no tumor and pituitary. This dataset is a combination of the following datasets : 
+1. [figshare](https://figshare.com/articles/dataset/brain_tumor_dataset/1512427)
+2. [SARTAJ](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
+3. [Br35H (no tumor class images)](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection?select=no)
+
+
+
 
