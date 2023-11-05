@@ -22,7 +22,7 @@ You can find  model_1 and model_2:
 Warning :)
    If you want to run the entire model from scratch, the first model takes approximately 6 'Friends' episodes to be trained, while the second model takes approximately 8 'Friends' episodes to be trained! 
 
-Feel free run the entire code from scratch and adjust the hyperparameters so can be fit to  your dataset!   
+Feel free to run the entire code from scratch and adjust the hyperparameters so can be fit to  your needs and data!   
 
 # Differnces between Model_1 and Model_2
 
