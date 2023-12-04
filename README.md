@@ -19,10 +19,7 @@ You can find  model_1 and model_2:
    - [BrainTumor_1.h5](https://github.com/costpetrides/Brain-Tumor-Classification/blob/main/BrainTumor_1.h5) - you can load model_1 with this file!
    - [BrainTumor_2.h5](https://github.com/costpetrides/Brain-Tumor-Classification/blob/main/BrainTumor_2.h5) - you can load model_2 with this file!
 
-Warning :)
-   If you want to run the entire model from scratch, the first model takes approximately 6 'Friends' episodes to be trained, while the second model takes approximately 8 'Friends' episodes to be trained! 
 
-Feel free to run the entire code from scratch and adjust the hyperparameters so can be fit to  your needs and data!   
 
 # Differnces between Model_1 and Model_2
 
